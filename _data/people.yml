@@ -72,6 +72,11 @@ master-kanta:
     role: master
     # bio: ""
 
+master-li:
+    display_name: "Xiang Li"
+    role: master
+    # bio: ""
+
 # master-2:
 #     display_name: "Daiki Suruga"
 #     role: master
