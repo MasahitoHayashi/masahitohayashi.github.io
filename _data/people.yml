@@ -15,7 +15,7 @@ pi-hayashi:
     display_name: "Masahito Hayashi"
     role: pi
     image: ./img/people/masahito-hayashi.jpg
-    bio: "Professor in School of Data Science, The Chinese University of Kong Kong, Shenzhen <br /> Chief Research Scientist in Shenzhen International Quantum Academy"
+    bio: "Presidential Chair Professor in School of Data Science, The Chinese University of Kong Kong, Shenzhen <br /> Chief Research Scientist in Shenzhen International Quantum Academy"
     webpage: "./about.html"
 
 ######################################################################################
@@ -32,17 +32,23 @@ prof-yu:
 ######################################################################################
 # Postdocs
 ######################################################################################
-postdoc-arai:
-    display_name: "Hayato Arai"
-    role: postdoc
-    image: ./img/people/hayato-arai.jpg
-    bio: "General probabilistic theories, operational foundation of quantum physics"
-    webpage: "https://www.math.nagoya-u.ac.jp/~m18003b/index.html"
+# postdoc-arai:
+#     display_name: "Hayato Arai"
+#     role: postdoc
+#     image: ./img/people/hayato-arai.jpg
+#     bio: "General probabilistic theories, operational foundation of quantum physics"
+#     webpage: "https://www.math.nagoya-u.ac.jp/~m18003b/index.html"
 
 
 ######################################################################################
 # PH.D. Students
 ######################################################################################
+phd-liu:
+    display_name: "Geng Liu"
+    role: phd
+    image: ./img/people/geng-liu.jpg
+    bio: "The Chinese University of Kong Kong, Shenzhen"
+    # webpage: ""
 
 # phd-2:
 #     display_name: "Yuuya Yoshida"
@@ -59,7 +65,7 @@ master-zhao:
     display_name: "Jingtian Zhao"
     role: master
     image: ./img/people/jingtian-zhao.jpg
-    # bio: ""
+    bio: "Southern University of Science and Technology"
     webpage: "https://scholar.google.com/citations?user=uNVnimkAAAAJ&hl=en&oi=ao"
 
 master-yuki:
@@ -75,7 +81,8 @@ master-kanta:
 master-li:
     display_name: "Xiang Li"
     role: master
-    # bio: ""
+    image: ./img/people/xiang-li.jpg
+    bio: "Southern University of Science and Technology"
 
 # master-2:
 #     display_name: "Daiki Suruga"
@@ -168,6 +175,12 @@ collab-kw:
     bio: " Institute for Quantum Computing at Baidu Research"
     webpage: "https://kunwang.info/"
 
+collab-arai:
+    display_name: "Hayato Arai"
+    role: collaborator
+    image: ./img/people/hayato-arai.jpg
+    bio: "RIKEN Center for Quantum Computing"
+    webpage: "https://www.math.nagoya-u.ac.jp/~m18003b/index.html"
 ######################################################################################
 # Visitors
 ######################################################################################
