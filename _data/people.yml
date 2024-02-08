@@ -15,7 +15,7 @@ pi-hayashi:
     display_name: "Masahito Hayashi"
     role: pi
     image: ./img/people/masahito-hayashi.jpg
-    bio: "Presidential Chair Professor in School of Data Science, The Chinese University of Kong Kong, Shenzhen <br /> Chief Research Scientist in Shenzhen International Quantum Academy"
+    bio: "Presidential Chair Professor in School of Data Science, The Chinese University of Hong Kong, Shenzhen <br /> Chief Research Scientist in Shenzhen International Quantum Academy"
     webpage: "./about.html"
 
 ######################################################################################
@@ -47,7 +47,7 @@ phd-liu:
     display_name: "Geng Liu"
     role: phd
     image: ./img/people/geng-liu.jpg
-    bio: "The Chinese University of Kong Kong, Shenzhen"
+    bio: "The Chinese University of Hong Kong, Shenzhen"
     # webpage: ""
 
 # phd-2:
