@@ -9,7 +9,7 @@ Engineering](http://siqse.sustc.edu.cn/), [Southern University of Science and Te
 China. My research interests include classical and quantum information theory and classical and quantum statistical
 inference. My full CV is available [here](/downloads/masahito-hayashi-cv.pdf). -->
 
-I am the Presidential Chair Professor in [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), and Chief Research Scientist in [Shenzhen International Quantum Academy](https://siqse.sustech.edu.cn/). Also, I am an IEEE Fellow and an IMS Fellow. My research interests include classical and quantum information theory and classical and quantum statistical inference. My full CV is available [here](/downloads/masahito-hayashi-cv.pdf).
+I am the Presidential Chair Professor in [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), and Chief Research Scientist in [Shenzhen International Quantum Academy](https://siqse.sustech.edu.cn/). Also, I am an **IEEE Fellow**, an **AAIA Fellow**, and an **IMS Fellow**. My research interests include classical and quantum information theory and classical and quantum statistical inference. My full CV is available [here](/downloads/masahito-hayashi-cv.pdf).
 
 <ul class="nav justify-content-center navbar-expand-lg navbar-light" style="background-color: #e9ecef;"> 
     <li class="nav-item"><a class="nav-link disabled" href="#short-biography">Short Biography</a></li>
@@ -25,7 +25,7 @@ Masahito Hayashi received the B.S. degree from the Faculty of Sciences, Kyoto Un
 
 Also, he worked in Centre for Quantum Technologies, National University of Singapore as Visiting Research Associate Professor from 2009 to 2012 and as Visiting Research Professor from 2012 to now. He also worked in Shenzhen Institute for Quantum Science and Engineering, Southern University of Science and Technology, China as a Visiting Professor from 2018 to 2020, and in Center for Quantum Computing, Peng Cheng Laboratory, China as a Research Scientist from 2019 to 2020.
 
-In 2011, he received *Information Theory Society Paper Award (2011)* for ["Information-Spectrum Approach to Second-Order Coding Rate in Channel Coding"](https://ieeexplore.ieee.org/abstract/document/5290292/). In 2016, he received the Japan Academy Medal from the Japan Academy and the JSPS Prize from Japan Society for the Promotion of Science. In 2017, he was promoted to **IEEE Fellow**. In 2022, he was promoted to **IMS Fellow**.
+In 2011, he received *Information Theory Society Paper Award (2011)* for ["Information-Spectrum Approach to Second-Order Coding Rate in Channel Coding"](https://ieeexplore.ieee.org/abstract/document/5290292/). In 2016, he received the Japan Academy Medal from the Japan Academy and the JSPS Prize from Japan Society for the Promotion of Science. In 2017, he was promoted to **IEEE Fellow**. In 2022, he was promoted to **AAIA Fellow** and **IMS Fellow**. In 2023, he was selected as the *Best Scientist in the Field of Mathematics* (43th in China and 890th in the world) and *Best Scientist in the Field of Engineering and Technology* in the top scientists ranking released by Research.com. He was also selected for *the Annual Science Influence Ranking* and *Lifetime Science Influence Ranking* in Elsevier’s Top 2% Global Scientists Rankings. Besides, he was honored as the **APS Outstanding Referee** from the American Physical Society in 2023.
 
 ### Representative Works
 
