@@ -50,6 +50,12 @@ phd-liu:
     bio: "The Chinese University of Hong Kong, Shenzhen"
     # webpage: ""
 
+phd-wang:
+    display_name: "Wusheng Wang"
+    role: phd
+    image: ./img/people/wusheng-wang.jpg
+    bio: "Nagoya University"
+
 # phd-2:
 #     display_name: "Yuuya Yoshida"
 #     role: phd
