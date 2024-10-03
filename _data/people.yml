@@ -139,41 +139,41 @@ collab-tomamichel:
 collab-yxy:
     display_name: "Yuxiang Yang"
     role: collaborator
-    bio: "Institute for Theoretical Physics, ETH Zurich"
+    bio: "Department of Computer Science, The University of Hong Kong"
     image: "./img/people/YangYuxiang.jpg"
-    webpage: "https://qit.ethz.ch/people/person-detail.MjM2NzY1.TGlzdC8yMDQwLDgzMTQzOTE4MA==.html"
+    webpage: "https://yangyx09.github.io/"
 
 collab-kf:
     display_name: "Kun Fang"
     role: collaborator
-    bio: "Institute for Quantum Computing at Baidu Research"
+    bio: "School of Data Science, The Chinese University of Hong Kong, Shenzhen"
     webpage: "http://kunfang.info/"
 
 collab-zwl:
     display_name: "Zi-Wen Liu"
     role: collaborator
-    bio: "Perimeter Institute for Theoretical Physics"
+    bio: "Yau Mathematical Sciences Center, Tsinghua University"
     image: ./img/people/Zi-Wen-Liu.jpg
-    webpage: "https://www.perimeterinstitute.ca/people/zi-wen-liu"
+    webpage: "https://ymsc.tsinghua.edu.cn/en/info/1033/2773.htm"
 
 collab-takagi:
     display_name: "Ryuji Takagi"
     role: collaborator
-    bio: "Physics graduate student at Massachusetts Institute of Technology"
+    bio: "Graduate School of Arts and Sciences, The University of Tokyo"
     webpage: "https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=en&oi=ao"
 
 collab-gb:
     display_name: "Ge Bai"
     role: collaborator
-    bio: "Department of Computer Science, The University of Hong Kong"
-    webpage: "https://qift.weebly.com/ge-bai.html"
+    bio: "CQT, National University of Singapore"
+    webpage: "https://www.quantumlah.org/people/profile/Bai-Ge"
     image: "./img/people/GeBai.png"
 
-collab-yy:
-    display_name: "Yu Yang"
-    role: collaborator
-    bio: "Chongqing Technology and Business University"
-    webpage: "https://www.researchgate.net/scientific-contributions/2107622473_Yu_Yang"
+# collab-yy:
+#     display_name: "Yu Yang"
+#     role: collaborator
+#     bio: "Chongqing Technology and Business University"
+#     webpage: "https://www.researchgate.net/scientific-contributions/2107622473_Yu_Yang"
 
 collab-kw:
     display_name: "Kun Wang"
