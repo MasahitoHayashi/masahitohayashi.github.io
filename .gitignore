@@ -1,0 +1,11 @@
+# Jekyll build outputs / caches
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+# LaTeX build artifacts
+_data/*.aux
+_data/*.log
+_data/*.pdf
+_data/*.synctex.gz
