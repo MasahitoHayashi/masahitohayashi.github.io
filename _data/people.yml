@@ -32,6 +32,14 @@ prof-yu:
 ######################################################################################
 # Postdocs
 ######################################################################################
+
+postdoc-zhang:
+  display_name: "Jianchao Zhang"
+  role: postdoc
+  image: ./img/people/jianchao-zhang.jpg
+  bio: "The Chinese University of Hong Kong, Shenzhen"
+  webpage: "https://scholar.google.com/citations?user=aFzX0kUAAAAJ&hl=zh-CN"
+
 # postdoc-arai:
 #     display_name: "Hayato Arai"
 #     role: postdoc
